@@ -146,6 +146,7 @@ html, body {
 	padding: 5px 15px;
 	border: 1px solid #7b8188;
 	transition: all 0.25s ease;
+	background-color: transparent;
 }
 
 .card__option i {
